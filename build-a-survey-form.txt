@@ -71,7 +71,3 @@ p{
 body{
 background-color: rgb(225,225,0) 
 }
-
-
-** end of undefined **
-
