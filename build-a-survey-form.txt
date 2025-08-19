@@ -1,5 +1,3 @@
-** start of undefined **
-
 <!Doctype html>
 <html lang="en">
   <head>
